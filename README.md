@@ -28,6 +28,8 @@
 
 ## Demo
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c83429f5b6e74df6a5618dd0a53c765b)](https://app.codacy.com/manual/douglasdeoliveira/finch-xpto?utm_source=github.com&utm_medium=referral&utm_content=douglasdeoliveira/finch-xpto&utm_campaign=Badge_Grade_Dashboard)
+
 Acesse a [demo](https://keen-lamport-0e3f9f.netlify.app/)
 
 ## :rocket: Tecnologias
